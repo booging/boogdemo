@@ -24,8 +24,8 @@ namespace hook
 	template <class H>
 	inline void CreateHookAddress(uintptr_t address, H& destination)
 	{
-		auto src = reinterpret_cast<decltype(&target)>(address); // cast 'address' to the same type as destination
-		return CreateHook(src, target);
+		auto src = reinterpret_cast<decltype(&destination)>(address); // cast 'address' to the same type as destination
+		return CreateHook(src, destination);
 	}
 
 	template <class T>
