@@ -144,6 +144,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="dllmain.cpp" />
+    <ClCompile Include="generic-cpp-guides\1 - data types.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
