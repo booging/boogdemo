@@ -2,7 +2,7 @@
 void Demo_DataTypes()
 {
     /* ------------ Introduction ------------*/
-    // In 64-bit C++ programming, there are 5 basic data types:
+    // In 64-bit C++ programming, there are 6 basic data types:
     // bool, char, short, int, float, double, __int64 (aka long long)
 
     /* ------------ Memory sizes ------------*/
@@ -35,7 +35,7 @@ void Demo_DataTypes()
 
     /* ------------ Initialization ------------*/
     // Initialization looks like this: <DataType> <VariableName> = <Value>
-    bool Boolean					= false;
+    bool Boolean = false;
     char Character					= 'A';			// Single character, can also be initialized with an integral value
     char IntegCharacter				= char(123);
     unsigned char UCharacter		= 'B';
