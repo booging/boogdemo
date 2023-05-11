@@ -18,7 +18,16 @@
     <ClCompile Include="dllmain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="generic-cpp-guides\1 - data types.cpp">
+    <ClCompile Include="generic-cpp-guides\1 - Data Types.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="generic-cpp-guides\2 - Functions &amp; Operators.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="generic-cpp-guides\3 - Structures.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="generic-cpp-guides\4 - Classes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

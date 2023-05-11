@@ -144,7 +144,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="dllmain.cpp" />
-    <ClCompile Include="generic-cpp-guides\1 - data types.cpp" />
+    <ClCompile Include="generic-cpp-guides\1 - Data Types.cpp" />
+    <ClCompile Include="generic-cpp-guides\2 - Functions &amp; Operators.cpp" />
+    <ClCompile Include="generic-cpp-guides\3 - Structures.cpp" />
+    <ClCompile Include="generic-cpp-guides\4 - Classes.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

@@ -51,7 +51,7 @@ void Demo_DataTypes()
     std::string StandardString		= "Hello";
     std::string OtherStdString		= std::string(CStyleString); // Constructs an std::string from an existing const char*
 
-    /* ------------ Type alisaing (typedefs) ------------*/
+    /* ------------ Type aliasing (typedefs) ------------*/
     // Aside from this, there may be aliased types - types that have a different name but are the same as one of these basic data types
     // Aliased types are created using a 'typedef' statement, like so:
     typedef unsigned int uint32_t; // This uint32_t type behaves the exact same way as "unsigned int", including initialization and size constraints
