@@ -2,7 +2,7 @@
 void Demo_DataTypes()
 {
     /* ------------ Introduction ------------*/
-    // In 64-bit C++ programming, there are 6 basic data types:
+    // In 64-bit C++ programming, there are 7 basic data types:
     // bool, char, short, int, float, double, __int64 (aka long long)
 
     /* ------------ Memory sizes ------------*/
